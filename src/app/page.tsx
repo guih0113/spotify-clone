@@ -11,13 +11,10 @@ export default function Home() {
         <Sidebar />  
         <main className="flex-1 p-6">
           <NavButtons/>
-
           <FirstSection/>
-
           <SecondSection/>
         </main>
       </div>
-
       <Footer/>
     </div>
   );
