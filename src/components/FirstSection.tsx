@@ -1,5 +1,3 @@
-import { Play } from "lucide-react";
-import Image from "next/image";
 import { PlaylistSec1 } from "./PlaylistSec1";
 
 export function FirstSection() {

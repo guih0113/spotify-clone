@@ -1,4 +1,3 @@
-import Image from "next/image"
 import { PlaylistSec2 } from "./PlaylistSec2";
 
 export function SecondSection() {
